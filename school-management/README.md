@@ -19,7 +19,7 @@ A comprehensive school management system built with PHP, MySQL, and Bootstrap. P
 ![Students](screenshots/students.png)
 
 ### Fee Management
-![Fees](screenshots/fees.png)
+![Fees](screenshots/fee.png)
 
 ### Attendance Tracking
 ![Attendance](screenshots/attendance.png)

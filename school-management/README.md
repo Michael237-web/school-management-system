@@ -4,7 +4,7 @@ A comprehensive school management system built with PHP, MySQL, and Bootstrap. P
 
 ## 🚀 Live Demo
 
-**[View Live Website](https://michaelphotofolio.atwebpages.com/schoolmanagement/)**
+**[View Live Website](http://michaelphotofolio.atwebpages.com/schoolmanagement/)**
 
 > **Demo Credentials:**
 > - Username: `admin`

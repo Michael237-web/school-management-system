@@ -17,7 +17,8 @@ A comprehensive school management system built with PHP, MySQL, and Bootstrap. P
 
 
 ### Student Management
-![Students](screenshots/students.png)
+<img width="1344" height="641" alt="image" src="https://github.com/user-attachments/assets/47fba18e-9164-49f8-becf-e7000466c54e" />
+
 
 ### Fee Management
 ![Fees](screenshots/fee.png)

@@ -21,10 +21,11 @@ A comprehensive school management system built with PHP, MySQL, and Bootstrap. P
 
 
 ### Fee Management
-![Fees](screenshots/fee.png)
+<img width="1344" height="641" alt="image" src="https://github.com/user-attachments/assets/f654a117-a779-422f-a219-24d21afe5248" />
+
 
 ### Attendance Tracking
-![Attendance](screenshots/attendance.png)
+
 
 ## ✨ Features
 

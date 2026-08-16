@@ -13,7 +13,7 @@ A comprehensive school management system built with PHP, MySQL, and Bootstrap. P
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](school-management-system/screenshots/dashboard.png)
 
 ### Student Management
 ![Students](screenshots/students.png)

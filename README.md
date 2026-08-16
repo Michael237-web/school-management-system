@@ -25,6 +25,7 @@ A comprehensive school management system built with PHP, MySQL, and Bootstrap. P
 
 
 ### Attendance Tracking
+<img width="1346" height="646" alt="image" src="https://github.com/user-attachments/assets/7e9ad90b-2ffc-4cd6-8a82-54920418cd15" />
 
 
 ## ✨ Features
